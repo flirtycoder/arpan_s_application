@@ -1,0 +1,16 @@
+import AnnouncementBar from '@/components/ui/announcementBar';
+import 
+const page = () => {
+    return (
+    <div>
+           <AnnouncementBar
+                message="Get early access on launches and offers."
+                linkText="Sign Up For Texts"
+                linkUrl="/signup"
+              />
+              
+    </div>
+    );
+}
+ 
+export default page;
