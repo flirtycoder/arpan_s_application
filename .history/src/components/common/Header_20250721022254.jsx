@@ -83,10 +83,10 @@ const Header = () => {
 
         {/* Icons */}
         <div className="flex items-center space-x-4 sm:space-x-6">
-          <Link href="/search">
+          <Link
           <button aria-label="Search">
             <Search className="w-5 h-5 sm:w-6 sm:h-6" />
-          </button></Link>
+          </button>
           <button aria-label="User">
             <UserRound className="w-5 h-5 sm:w-6 sm:h-6" />
           </button>

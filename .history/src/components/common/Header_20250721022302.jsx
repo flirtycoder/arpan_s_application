@@ -86,7 +86,7 @@ const Header = () => {
           <Link href="/search">
           <button aria-label="Search">
             <Search className="w-5 h-5 sm:w-6 sm:h-6" />
-          </button></Link>
+          </button><></>
           <button aria-label="User">
             <UserRound className="w-5 h-5 sm:w-6 sm:h-6" />
           </button>
