@@ -3,7 +3,7 @@ import Footer from '@/components/common/Footer';
 import HeroSection from '@/components/common/hero-section';
 import AnnouncementBar from '@/components/ui/announcementBar';
 import Ending from '@/components/common/Ending';
-import Image from 'next/image';
+import
 const page = () => {
   return (
     <div>
